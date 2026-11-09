@@ -1,5 +1,7 @@
 # China Flight Code Reference · 中国航班代码速查
 
+> **在线阅读版 / Web version:** <https://maqiangthunder.github.io/china-flight-codes/>
+
 A quick-reference table of **IATA airport codes (三字码)** and **airline codes (二字码)** for mainland China — the ones that actually get confused: Beijing PEK vs PKX, Shanghai PVG vs SHA, Chengdu CTU vs TFU.
 
 Data mirrors the public OurAirports dataset (CC0) plus open airline records. A searchable version with 10,000+ airports, 100+ airlines, baggage allowances and refund rules lives at **[flightkb.com](https://flightkb.com)**.
